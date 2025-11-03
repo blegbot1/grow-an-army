@@ -1,6 +1,6 @@
 --[[
     Orb Collector v2.1
-    Автор: DarkScript
+    Автор: любитель больших
     Дата: 15.12.2024
     Описание: Авто-сбор орбов и телепорт к игрокам
 --]]
@@ -511,4 +511,5 @@ end)
 while true do
     updateOrbCount()
     wait(5)
+
 end
